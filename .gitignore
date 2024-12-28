@@ -1,3 +1,6 @@
 Dataset/*
 *.pkl
 Processed Images/*
+Labeled Images/*
+Images/*
+runs/*
